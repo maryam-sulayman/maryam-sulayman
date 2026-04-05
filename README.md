@@ -19,10 +19,10 @@ I'm a Data Science & AI graduate with a background in Biomedical Science and Sof
 ### [CardioTrack](https://github.com/maryam-sulayman/cardiotrack)
 An AI-powered mobile health app that helps users at risk of cardiovascular disease log daily habits and receive personalised AI-generated feedback and weekly improvement plans. Built using React Native, Firebase, and the OpenAI API. Validated using the Framingham Risk Score across 15 simulated user profiles. Achieved First Class in MSc dissertation.
 
-## 🎓 Background
+## Background
 - BSc Biomedical Science — University of Portsmouth (First Class)
 - MSc Web & Mobile Development — Northumbria University (Distinction)
 - MSc Data Science & AI — University of Liverpool (In Progress)
 
-## 📫 Let's Connect
+## Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-sulayman-4484601b3/)

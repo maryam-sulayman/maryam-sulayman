@@ -1,6 +1,6 @@
 # Hi, I'm Maryam 👋🏾
 
-I'm a Data Scientist with a background in Biomedical Science and Software Development. Into anything health tech. Currently researching and building tools that solve problems in health at a global scale.
+I'm a Data Scientist with a background in Biomedical Science and Software Development. Into anything health tech! Currently researching and building tools that solve problems in health at a global scale.
 
 ## What I'm Working On
 - My MSc dissertation: predicting viral transmissibility between humans using machine learning

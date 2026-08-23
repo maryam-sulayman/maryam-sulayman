@@ -1,11 +1,11 @@
 # Hi, I'm Maryam 👋🏾
 
-I'm a Data Science & AI graduate with a background in Biomedical Science and Software Development. I'm passionate about using AI and data to solve challenges in healthcare and beyond.
+I'm a Data Scientist with a background in Biomedical Science and Software Development. Into anything health tech. Currently researching and building tools that solve practical....
 
 ## What I'm Working On
-- Building **CardioTrack** — an AI-powered mobile health app for cardiovascular risk assessment and lifestyle guidance
-- MSc in Data Science & Artificial Intelligence at the University of Liverpool
-- Exploring machine learning, NLP, and AI applications in health tech
+- My MSc dissertation: predicting viral transmissibility between humans using machine learning
+- CardioTrack, an AI-powered mobile health app for cardiovascular risk assessment and lifestyle guidance
+- Into AI applications in health tech, Machine learning, and NLP 
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -16,6 +16,9 @@ I'm a Data Science & AI graduate with a background in Biomedical Science and Sof
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ## Featured Project
+### [Viral Transmissibility Prediction](https://github.com/maryam-sulayman/viral-transmissibility-prediction.git)
+A machine learning model that predicts whether a virus can transmit between humans, based on genomic and ecological features. My current MSc research project at Liverpool.
+
 ### [CardioTrack](https://github.com/maryam-sulayman/cardiotrack)
 An AI-powered mobile health app that helps users at risk of cardiovascular disease log daily habits and receive personalised AI-generated feedback and weekly improvement plans. Built using React Native, Firebase, and the OpenAI API. Validated using the Framingham Risk Score across 15 simulated user profiles. Achieved First Class in MSc dissertation.
 
